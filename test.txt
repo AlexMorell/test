@@ -2,4 +2,4 @@ hej dï¿½r testar frï¿½n visual studio
 123
 från testbranch 1
 
-issue 1
+issue 2
